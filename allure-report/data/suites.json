@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "tentar logar sem cadastro",
+    "children" : [ {
+      "name" : "login",
+      "uid" : "cd7996131bec72d8",
+      "parentUid" : "14ce699e64f954bf18996408c0309eb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649110709715,
+        "stop" : 1649110715645,
+        "duration" : 5930
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "14ce699e64f954bf18996408c0309eb9"
+  } ]
+}
